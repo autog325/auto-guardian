@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/auto-guardian/static/css/main.d30fe390.css",
-    "main.js": "/auto-guardian/static/js/main.42854321.js",
-    "static/js/787.75096af7.chunk.js": "/auto-guardian/static/js/787.75096af7.chunk.js",
-    "static/media/Car.svg": "/auto-guardian/static/media/Car.3f86bc948bd79c0d5597b14cad2471aa.svg",
-    "static/media/User.svg": "/auto-guardian/static/media/User.de179a894d0091e4a224af26311a9947.svg",
-    "static/media/Logo.svg": "/auto-guardian/static/media/Logo.c27ea7ff619f27627220c665ee589604.svg",
-    "static/media/Logo2.svg": "/auto-guardian/static/media/Logo2.1286e7324a3966e700acd76d81dd8743.svg",
-    "index.html": "/auto-guardian/index.html",
-    "main.d30fe390.css.map": "/auto-guardian/static/css/main.d30fe390.css.map",
-    "main.42854321.js.map": "/auto-guardian/static/js/main.42854321.js.map",
-    "787.75096af7.chunk.js.map": "/auto-guardian/static/js/787.75096af7.chunk.js.map"
+    "main.css": "/static/css/main.d30fe390.css",
+    "main.js": "/static/js/main.ff566c84.js",
+    "static/js/787.1346007f.chunk.js": "/static/js/787.1346007f.chunk.js",
+    "static/media/Car.svg": "/static/media/Car.3f86bc948bd79c0d5597b14cad2471aa.svg",
+    "static/media/User.svg": "/static/media/User.de179a894d0091e4a224af26311a9947.svg",
+    "static/media/Logo.svg": "/static/media/Logo.c27ea7ff619f27627220c665ee589604.svg",
+    "static/media/Logo2.svg": "/static/media/Logo2.1286e7324a3966e700acd76d81dd8743.svg",
+    "index.html": "/index.html",
+    "main.d30fe390.css.map": "/static/css/main.d30fe390.css.map",
+    "main.ff566c84.js.map": "/static/js/main.ff566c84.js.map",
+    "787.1346007f.chunk.js.map": "/static/js/787.1346007f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d30fe390.css",
-    "static/js/main.42854321.js"
+    "static/js/main.ff566c84.js"
   ]
 }
