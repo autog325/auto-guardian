@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/autog325/auto-guardian/.git/static/css/main.d30fe390.css",
-    "main.js": "/autog325/auto-guardian/.git/static/js/main.f2c28806.js",
-    "static/js/787.75096af7.chunk.js": "/autog325/auto-guardian/.git/static/js/787.75096af7.chunk.js",
-    "static/media/Car.svg": "/autog325/auto-guardian/.git/static/media/Car.3f86bc948bd79c0d5597b14cad2471aa.svg",
-    "static/media/User.svg": "/autog325/auto-guardian/.git/static/media/User.de179a894d0091e4a224af26311a9947.svg",
-    "static/media/Logo.svg": "/autog325/auto-guardian/.git/static/media/Logo.c27ea7ff619f27627220c665ee589604.svg",
-    "static/media/Logo2.svg": "/autog325/auto-guardian/.git/static/media/Logo2.1286e7324a3966e700acd76d81dd8743.svg",
-    "index.html": "/autog325/auto-guardian/.git/index.html",
-    "main.d30fe390.css.map": "/autog325/auto-guardian/.git/static/css/main.d30fe390.css.map",
-    "main.f2c28806.js.map": "/autog325/auto-guardian/.git/static/js/main.f2c28806.js.map",
-    "787.75096af7.chunk.js.map": "/autog325/auto-guardian/.git/static/js/787.75096af7.chunk.js.map"
+    "main.css": "/auto-guardian/static/css/main.d30fe390.css",
+    "main.js": "/auto-guardian/static/js/main.42854321.js",
+    "static/js/787.75096af7.chunk.js": "/auto-guardian/static/js/787.75096af7.chunk.js",
+    "static/media/Car.svg": "/auto-guardian/static/media/Car.3f86bc948bd79c0d5597b14cad2471aa.svg",
+    "static/media/User.svg": "/auto-guardian/static/media/User.de179a894d0091e4a224af26311a9947.svg",
+    "static/media/Logo.svg": "/auto-guardian/static/media/Logo.c27ea7ff619f27627220c665ee589604.svg",
+    "static/media/Logo2.svg": "/auto-guardian/static/media/Logo2.1286e7324a3966e700acd76d81dd8743.svg",
+    "index.html": "/auto-guardian/index.html",
+    "main.d30fe390.css.map": "/auto-guardian/static/css/main.d30fe390.css.map",
+    "main.42854321.js.map": "/auto-guardian/static/js/main.42854321.js.map",
+    "787.75096af7.chunk.js.map": "/auto-guardian/static/js/787.75096af7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d30fe390.css",
-    "static/js/main.f2c28806.js"
+    "static/js/main.42854321.js"
   ]
 }
