@@ -1,0 +1,70 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    background: #242424;
+    height: 100vh;
+    width: 100%;
+    min-width: 230px;
+}
+
+.logoContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.profileContainer {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    border-bottom: 1px solid #DDDDDD;
+    width: 100%;
+}
+
+.profileDetails p {
+    display: flex;
+    flex-direction: column;
+}
+
+.downArrow {
+    margin-left: auto;
+    padding: .5rem;
+}
+
+.buttonsContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    padding: 1rem 0;
+    gap: 2rem;
+    height: 100%;
+
+}
+
+.buttonContainer,.buttonContainerDashboard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    cursor: pointer;
+    &>p{
+        color: white;
+    }
+
+    &.buttonContainerDashboard{
+        color:#A162F7;
+        &>p {
+        color:#A162F7;
+        }
+    }
+}
+
+.buttonContainerLogOut {
+    margin-top: auto;
+}
+
+.image {
+    padding: .7em;
+}
