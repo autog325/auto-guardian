@@ -1,7 +1,7 @@
 {
-  "name": "something",
+  "name": "auto-guardian",
   "version": "0.1.0",
-  "homepage": "https://autog325.github.io/auto-guardian",
+  "homepage": "https://autog325.github.io/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.6",
